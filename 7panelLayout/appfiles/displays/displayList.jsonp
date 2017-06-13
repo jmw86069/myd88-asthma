@@ -1,12 +1,12 @@
-__loadDisplayList__b9f96bf0([
+__loadDisplayList__72d8482d([
   {
     "group": "common",
     "name": "NanoString_data",
-    "desc": "NanoString data",
+    "desc": "To change genes click Next, or to select a gene click Filter, then choose Gene, then choose the gene of interest.",
     "n": 4488,
     "height": 500,
     "width": 500,
-    "updated": "2017-06-09 14:06:33",
+    "updated": "2017-06-13 14:08:04",
     "keySig": "7ec5d7438047558161e7edee66f9cc37"
   }
 ])

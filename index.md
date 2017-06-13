@@ -2,10 +2,12 @@
 %
 %
 
-Overview
-========
+Web Visualizations
+==================
 
-This web page provides supplementary data for the following manuscript:
+This web page provides supplementary data for the manuscript listed below.
+
+* [7-panel arrangement of complete MyD88 NanoString expression data][7panelLayout]
 
 MYD88-dependent Dendritic and Epithelial Cell Crosstalk in the Lung Orchestrates Immune Responses to Inhaled Allergens
 -------------------------
@@ -17,11 +19,11 @@ Kymberly M. Gowdy^1,4^, Paul A. Wade^2^, and Donald N. Cook^1^*
 
 ## Correspondence
 
-**Donald N. Cook, Ph.D.**\
+**Dr. Seddon Thomas, Ph.D.**\
 Immunity, Inflammation and Disease Laboratory\
 National Institute of Environmental Health Sciences\
 111 T.W. Alexander Dr., Research Triangle Park, North Carolina 27709, USA\
-**Phone**: 919-541-4035, **Fax**: 301-480-3798, **E-mail**: cookd@niehs.nih.gov\
+**Phone**: 919-541-7590, **E-mail**: seddon.thomas@nih.gov\
 [http://www.niehs.nih.gov/research/atniehs/labs/iidl/pi/immuno-gen][immunogen]
 
 Author Affiliation
@@ -34,11 +36,6 @@ Environmental Health Sciences, NIH, Research Triangle Park, North Carolina
 27709\
 ^4^Department of Pharmacology & Toxicology, Brody School of Medicine at
 East Carolina University, Greenville, North Carolina 27834
-
-Web Visualizations
-===================
-
-* [7-panel arrangement of complete MyD88 NanoString expression data][7panelLayout]
 
 
 [7panelLayout]: 7panelLayout/index.html "7-panel arrangement of NanoString data"
