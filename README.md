@@ -1,14 +1,21 @@
 # Myd88 Asthma Supplemental Data
 
-Gene expression data across multiple timepoints are included in an [online interactive display](https://jmw86069.github.io/myd88-asthma/) including:
-* whole lung samples,
-* (sorted) endothelial cells (ECs) at 2 hours,
-* (sorted) conventional dendritic cells (cDCs) at 6 hours, and
-* (sorted) alveolar macrophages (AMs) at 6 hours.
+Gene expression data across multiple timepoints are included in an [online interactive display](https://jmw86069.github.io/myd88-asthma/7panelLayout/index.html) including:
+* whole lung samples at 0, 2, 4, and 6 hours
+* endothelial cells (ECs, sorted) at 2 hours
+* conventional dendritic cells (cDCs, sorted) at 6 hours
+* alveolar macrophages (AMs, sorted) at 6 hours
 
-Gene expression measurements were obtained using the Nanostring nCounter Mouse Immunology Gene Expression Codeset
+Each sample represents data in four cell line genotypes:
+* wildtype (**WT**)
+* cDC-specific knockout of MyD88 (**DC.KO**)
+* EC-specific knockout of MyD88 (**EC.KO**)
+* full knockout of MyD88 (**KO**)
 
-[Supplementary Data: MyD88/Asthma Expression Profiles](https://jmw86069.github.io/myd88-asthma/7panelLayout/index.html)
+Gene expression measurements were obtained using the Nanostring nCounter Mouse Immunology Gene Expression Codeset, processed using nCounter software, and further analyzed using R-3.6.1 as described in the publication below.
+
+[Supplementary Data Summary Page: MyD88/Asthma Expression Profiles](https://jmw86069.github.io/myd88-asthma/).
+Click [Web Visualizations](https://jmw86069.github.io/myd88-asthma/7panelLayout/index.html) to view the figures.
 
 This repository contains static data and figures accompanying<br>
 **"MyD88-dependent Dendritic and Epithelial Cell Crosstalk Orchestrates Immune Responses to Allergens"**<br>
